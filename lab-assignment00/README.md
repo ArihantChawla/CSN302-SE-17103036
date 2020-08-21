@@ -6,9 +6,6 @@ Coded by:
 Arihant Chawla
 17103036
 
-Lab Assignment 1:
-  Write a program which accepts the three sides of a triangle and thus decides which type of triangle the sides will make.
-
   I don't want to write a command line tool for this. Sure, I can give input messages etc. But I really don't want to. 
   Also format wasn't specified so I'm assuming you want CP based format
  
